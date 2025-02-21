@@ -1,3 +1,3 @@
 # demo-repos
-this is my first repository
-author - Debjit Kar
+This is my first repository.
+Author - Debjit Kar
